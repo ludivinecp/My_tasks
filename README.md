@@ -4,26 +4,26 @@ The user can :
 - add an event :
 
 ```'sh'
-add events
+$ add events
 
 Event's name ?
-My event
+$ My event
 
 Date ?
-09/10/2016
+$ 09/10/2016
 
 Time ?
-10:00
+$ 10:00
 
 Place ?
-2 place de la République, 75012 Paris
+$ 2 place de la République, 75012 Paris
 
 "My event, 09/05/2016 at 10:00, 2 place de la République, 75012 Paris" has been successfully created  !
 ```
 - Check up coming events : view the event list grouped by months
 
 ```'sh'
-show events
+$ show events
 
 MAY
 My event, 09/10/2016 at 10:00, 2 place de la République, 75012 Paris
@@ -40,4 +40,4 @@ Interview with Poneo's CTO, 18/10/2016 at 14:15, 18 rue Marie Curie, 94700 Maiso
 remove it from the list.
 
 The application is accessible from anywhere, just tape : 
-```'sh'my_task```
+```'sh'  $ my_task  ```
