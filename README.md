@@ -6,4 +6,4 @@ The user can :
 - receive notification at the date and time of the event : opening a window with details of the event and
 remove it from the list.
 
-The application accessible from anywhere, the user just have to tape "my_task" in his terminal.
+The application is accessible from anywhere, just tape "my_task" in your terminal.
