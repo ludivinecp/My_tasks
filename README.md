@@ -18,7 +18,7 @@ $ 10:00
 Place ?
 $ 2 place de la République, 75012 Paris
 
-"My event, 09/05/2016 at 10:00, 2 place de la République, 75012 Paris" has been successfully created  !
+"My event, 09/05/2016 at 10:00, 2 place de la République, 75012 Paris" has been created  !
 ```
 - Check up coming events : view the event list grouped by months
 
@@ -40,4 +40,4 @@ Interview with Poneo's CTO, 18/10/2016 at 14:15, 18 rue Marie Curie, 94700 Maiso
 remove it from the list.
 
 The application is accessible from anywhere, just tape : 
-```'sh'  $ my_task  ```
+```'sh'$ my_task  ```
