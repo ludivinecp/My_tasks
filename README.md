@@ -41,4 +41,5 @@ remove it from the list.
 
 The application is accessible from anywhere, just tape : 
 ```
-$ my_task  ```
+$ my_task  
+```
