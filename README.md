@@ -40,4 +40,4 @@ Interview with Poneo's CTO, 18/10/2016 at 14:15, 18 rue Marie Curie, 94700 Maiso
 remove it from the list.
 
 The application is accessible from anywhere, just tape : 
-```'sh' my_task```
+```'sh'my_task```
