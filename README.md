@@ -4,6 +4,8 @@ The user can :
 - add an event :
 
 ```'sh'
+$add events
+
 Event's name ?
 My event
 
@@ -21,6 +23,8 @@ Place ?
 - Check up coming events : view the event list grouped by months
 
 ```'sh'
+$show events
+
 MAY
 My event, 09/10/2016 at 10:00, 2 place de la République, 75012 Paris
 
