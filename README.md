@@ -20,7 +20,7 @@ $ 2 place de la République, 75012 Paris
 
 "My event, 09/05/2016 at 10:00, 2 place de la République, 75012 Paris" has been created  !
 ```
-- Check up coming events : view the event list grouped by months
+- Check up coming events : view the event listed by months
 
 ```'sh'
 $ show events
@@ -39,7 +39,7 @@ Interview with Poneo's CTO, 18/10/2016 at 14:15, 18 rue Marie Curie, 94700 Maiso
 - receive notification at the date and time of the event : opening a window with details of the event and
 remove it from the list.
 
-The application is accessible from anywhere, just tape : 
+The application is accessible from anywhere, in your terminal put : 
 ```
 $ my_task  
 ```
